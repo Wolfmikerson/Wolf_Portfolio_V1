@@ -1,31 +1,29 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+Portfolio: setup a mobile version
 
-# Hello Microverse
 
-My first project at microverse
+![screenshot](https://i.imgur.com/tPMZxHx.png)
 
 
 ## Built With
 
-- Css and Html
-- vscode
-- git and github
-
-
+- HTML5
+- CSS
+- GIT / GITHUB
 
 ## Authors
 
-👤 **Wolf**
+👤 **Wolf M. Jacques**
 
 - GitHub: [@githubhandle](https://github.com/Wolfmikerson)
 - Twitter: [@twitterhandle](https://twitter.com/wolfmikerson)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/wolf-m-jacques-27a38612a/)
 
+
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -33,10 +31,11 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Microverse community
-- Github community
-- Youtube community
+- Figma Templates
+- My teamates
+- etc
 
 ## 📝 License
 
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+This project is [MIT](./MIT.md) licensed.
+
