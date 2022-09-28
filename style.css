@@ -1,7 +1,33 @@
-h1 {
-  color: blue;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+body {
+    margin: 0;
+    background: #ffffff;
 }
 
-nav {
-    background-color: white
+.headline-container {
+    background-image: url(images/background.png);
+    background-repeat: no-repeat;
+}
+
+.navbar-container {
+    padding: 50px;
+    width: 100%;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-item1 {
+    height: 15px;
+}
+
+.flex-item2 {
+    height: 15px;
+}
+
+.default-font {
+    font-family: 'Poppins';
+    font-style: normal;
 }
