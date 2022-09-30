@@ -10,14 +10,18 @@ body {
     background-repeat: no-repeat;
 }
 
+.flex-container {
+    display: flex;
+    flex-direction: column;
+}
+
 .navbar-container {
     padding: 50px;
     width: 100%;
+    flex
 }
 
-.flex-container {
-    display: flex;
-}
+
 
 .flex-item1 {
     height: 15px;
