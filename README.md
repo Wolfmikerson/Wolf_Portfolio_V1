@@ -1,4 +1,4 @@
-Portfolio: setup a mobile version
+Portfolio: Finish Mobile Version
 
 
 ![screenshot](https://i.imgur.com/tPMZxHx.png)
