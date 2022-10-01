@@ -38,6 +38,7 @@ body {
   width: 100%;
   padding: 50px 0;
   background-color: #fff;
+  place-content: space-between;
 }
 
 .navbar-top-contener {
@@ -47,11 +48,11 @@ body {
 }
 
 .logo {
-  margin-left: 12px;
+  margin-left: 20px;
 }
 
 .menu {
-  margin-right: 18px;
+  margin-right: 20px;
 }
 
 .logo-font {
